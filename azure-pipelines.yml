@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: 'ask-agent-scale' #FOI CRIADO UM SCALE SET E CONFIGURADO NO AGENT POOL DO PROJETO
+  name: 'ask-agent-scale' #FOI CRIADO UM SCALE SET E CONFIGURADO NO AGENT POOL DO PROJETO, eu deletei para nao consumir creditos
 
 jobs:
   - job: Job1
